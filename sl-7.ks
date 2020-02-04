@@ -86,26 +86,26 @@ bash-completion
 wget
 
 #Nokia Groups
-@base
-@core
-@directory-client
-@network-file-system-client
-@networkmanager-submodules
-@security-tools
+#@base
+#@core
+#@directory-client
+#@network-file-system-client
+#@networkmanager-submodules
+#@security-tools
 @x11
 
 #Nokia Packages
-evolution-mapi
+#evolution-mapi
 ntpdate
-oddjob-mkhomedir
+#oddjob-mkhomedir
 redhat-lsb-core
-sssd
-sssd-client
+#sssd
+#sssd-client
 tcp_wrappers
 tcsh
 nspluginwrapper
-tigervnc
-tigervnc-server
+#tigervnc
+#tigervnc-server
 noel-userinfo
 -subscription-manager*
 initial-setup
