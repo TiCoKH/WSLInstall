@@ -59,7 +59,7 @@ yum
 sudo
 openssh-clients
 vim
-centos-release
+#centos-release
 less
 -kernel*
 -*firmware
@@ -86,12 +86,12 @@ bash-completion
 wget
 
 #Nokia Groups
-#@base
-#@core
+@base
+@core
 #@directory-client
-#@network-file-system-client
-#@networkmanager-submodules
-#@security-tools
+@network-file-system-client
+@networkmanager-submodules
+@security-tools
 @x11
 
 #Nokia Packages
